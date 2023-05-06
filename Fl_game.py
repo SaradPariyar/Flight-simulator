@@ -49,7 +49,7 @@ def game():
             print('\nWeather of the chosen city is:', result['weather'][0]['main'])
             print(f'Current temperature: {celsius} C')
 
-        def map():
+
 
 
         def locations():
